@@ -1,5 +1,4 @@
 # Sukurkite ir išsibandykite funkcijas, kurios:
-# Gražinti trijų paduotų skaičių sumą.
 # Gražintų paduoto sąrašo iš skaičių, sumą.
 # Atspausdintų didžiausią iš kelių paduotų skaičių (panaudojant *args).
 # Gražintų paduotą stringą atbulai.
@@ -10,19 +9,25 @@
 # Gražina, ar paduoti metai yra keliamieji, ar ne.
 # Atspausdina, kiek nuo paduotos sukakties praėjo metų, mėnesių, dienų, valandų, minučių, sekundžių.
 
+
+# Gražinti trijų paduotų skaičių sumą.
 def suma_triju(skaicius1, skaicius2, skaicius3):
     summ = skaicius1 + skaicius2 + skaicius3
     print(f'Suma triju {summ}')
 
 suma_triju(1, 2, 3)
 
-def list_sum(list):
+
+# Gražintų paduoto sąrašo iš skaičių, sumą.
+def list_sum(*args, skaicius):
     return sum(list)
 
-my_list = [1, 2, 3]
+list = [1, 2, 3, 4]
+print(list_sum(1, 2, 3, 4, skaicius=6))
 
-a = [1, 2, 3]
+#a = [1, 2, 3]
 
-def string_back(zodis):
-    zodis[::-1]
-    print()
+# Atspausdintų didžiausią iš kelių paduotų skaičių (panaudojant *args).
+def big_string(*args, skaicius):
+    if skaicius > skaicius:
+    print(skaicius)
