@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7968c866-bb80-4a4b-882c-907a6f4dc306" name="Changes" comment="" />
+    <list default="true" id="7968c866-bb80-4a4b-882c-907a6f4dc306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2 paskaita/3 uzduotis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 paskaita/4 uzduotis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1 uzduotis">
+  <component name="RunManager" selected="Python.4 uzduotis">
     <configuration name="1 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Namu darbai 1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +91,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 paskaita" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 paskaita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Manager\Documents\GitHub\CodeAcademy\1 paskaita\Namu darbai 1_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 paskaita/3 uzduotis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Namu darbai 1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +113,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 paskaita" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 paskaita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 paskaita/Namu darbai 1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 paskaita/4 uzduotis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4 uzduotis" />
+        <item itemvalue="Python.3 uzduotis" />
         <item itemvalue="Python.1 uzduotis" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2 uzduotis (1)" />
-        <item itemvalue="Python.Namu darbai 1_2" />
-        <item itemvalue="Python.Namu darbai 1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +192,7 @@
       <workItem from="1651687826474" duration="19517000" />
       <workItem from="1651774743638" duration="3373000" />
       <workItem from="1651779576674" duration="26000" />
+      <workItem from="1651868860618" duration="1880000" />
     </task>
     <servers />
   </component>
@@ -216,11 +221,11 @@
     <SUITE FILE_PATH="coverage/CodeAcademy$main.coverage" NAME="main Coverage Results" MODIFIED="1651687988693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodeAcademy$Namu_darbai_1_2.coverage" NAME="Namu darbai 1_2 Coverage Results" MODIFIED="1651696720700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis.coverage" NAME="1 uzduotis Coverage Results" MODIFIED="1651776787699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 paskaita" />
-    <SUITE FILE_PATH="coverage/CodeAcademy$3_uzduotis.coverage" NAME="3 uzduotis Coverage Results" MODIFIED="1651695449725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita" />
+    <SUITE FILE_PATH="coverage/CodeAcademy$3_uzduotis.coverage" NAME="3 uzduotis Coverage Results" MODIFIED="1651869373333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis__1_.coverage" NAME="1 uzduotis (1) Coverage Results" MODIFIED="1651691931184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$2_uzduotis.coverage" NAME="2 uzduotis Coverage Results" MODIFIED="1651693089316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$2_uzduotis__1_.coverage" NAME="2 uzduotis (1) Coverage Results" MODIFIED="1651761400601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$test.coverage" NAME="test Coverage Results" MODIFIED="1651768271482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 paskaita" />
-    <SUITE FILE_PATH="coverage/CodeAcademy$4_uzduotis.coverage" NAME="4 uzduotis Coverage Results" MODIFIED="1651695790890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita" />
+    <SUITE FILE_PATH="coverage/CodeAcademy$4_uzduotis.coverage" NAME="4 uzduotis Coverage Results" MODIFIED="1651870536246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
   </component>
 </project>
