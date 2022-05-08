@@ -11,13 +11,13 @@ vardas = input('Iveskite varda: ')
 ugis = float(input('Iveskite ugi : '))
 svoris = float(input('Iveskite svori : '))
 
-if 1.2 < ugis < 1.6:
+if 1.2 <= ugis <= 1.6 and 60 <= svoris <= 85:
     print(f'{vardas.title()} yra krepsininkas, kurio ugis {int(ugis * 100)} sm. Jo pozicija yra Lengvas krastas')
-elif 1.6 < ugis < 1.9:
+elif ugis <= 1.9 and svoris <= 95:
     print(f'{vardas.title()} yra krepsininkas, kurio ugis {int(ugis * 100)} sm. Jo pozicija yra Sunkus krastas')
-elif 1.9 < ugis < 2.1:
+elif ugis <= 2.1 and svoris <= 105:
     print(f'{vardas.title()} yra krepsininkas, kurio ugis {int(ugis * 100)} sm. Jo pozicija yra Atakojantis ginejas')
-elif 2.1 < ugis < 2.3:
+elif ugis <= 2.3 and svoris <= 120:
     print(f'{vardas.title()} yra krepsininkas, kurio ugis {int(ugis * 100)} sm. Jo pozicija yra Centras')
 else:
     print(f'{vardas} Nestandartinis zaidejas')
