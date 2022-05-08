@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7968c866-bb80-4a4b-882c-907a6f4dc306" name="Changes" comment="2022.05.08">
-      <change afterPath="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)/1 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)/2 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)/3 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)/4 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)/5 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/1 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/1 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/2 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/2 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/3 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/3 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/4 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/4 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/Namu darbai 1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/Namu darbai 1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 paskaita/Namu darbai 1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)/Namu darbai 1_2_koreguotas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 paskaita/1 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/1 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 paskaita/2 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/2 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 paskaita/3 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/3 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 paskaita/4 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/4 uzduotis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 paskaita/5 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/5 uzduotis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 paskaita/1 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 paskaita/1 uzduotis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 paskaita/2 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 paskaita/2 uzduotis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +40,29 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.4 uzduotis (1)">
+  <component name="RunManager" selected="Python.1 uzduotis">
+    <configuration name="1 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4 paskaita" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 paskaita/1 uzduotis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,28 +151,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5 uzduotis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeAcademy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)/5 uzduotis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1 uzduotis" />
         <item itemvalue="Python.4 uzduotis (1)" />
         <item itemvalue="Python.4 uzduotis" />
         <item itemvalue="Python.3 uzduotis" />
         <item itemvalue="Python.2 uzduotis" />
-        <item itemvalue="Python.5 uzduotis (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +195,7 @@
       <workItem from="1651774743638" duration="3373000" />
       <workItem from="1651779576674" duration="26000" />
       <workItem from="1651868860618" duration="21138000" />
-      <workItem from="1652006052512" duration="8238000" />
+      <workItem from="1652006052512" duration="8681000" />
     </task>
     <task id="LOCAL−00001" summary="2022.05.08">
       <created>1651993265287</created>
@@ -218,7 +203,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1651993265287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="2022.05.08">
+      <created>1652035918739</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1652035918739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +237,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="2022.05.08" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis.coverage" NAME="1 uzduotis Coverage Results" MODIFIED="1652005029292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 paskaita" />
+    <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis.coverage" NAME="1 uzduotis Coverage Results" MODIFIED="1652036301724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$5_uzduotis.coverage" NAME="5 uzduotis Coverage Results" MODIFIED="1651999816659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis__1_.coverage" NAME="1 uzduotis (1) Coverage Results" MODIFIED="1651992264348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$5_uzduotis__1_.coverage" NAME="5 uzduotis (1) Coverage Results" MODIFIED="1652007834625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)" />
