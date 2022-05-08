@@ -5,9 +5,14 @@
 # Patarimas: Naudoti while ciklą, funkciją random.randint (import random), else, break
 import random
 
-a = random.randint(1, 6)
-while a == 5:
-    print(f' {a} - Pralaimejai...')
-    break
+for i in range(5):
+    a = random.randint(1, 6)
+    print(a)
+    if a == 5:
+        print(f' {a} - Pralaimejai...')
+        break
 else:
-    print(f' {a} - Laimejai')
+    print(f'{a} - Laimejai')
+
+
+# DONE
