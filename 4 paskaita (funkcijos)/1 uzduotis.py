@@ -28,7 +28,9 @@ print(list_sum(1, 2, 3, 4, skaicius=6))
 #a = [1, 2, 3]
 
 # Atspausdintų didžiausią iš kelių paduotų skaičių (panaudojant *args).
-def big_string(*args, skaicius):
-    if big_string() > skaicius:
-        print(skaicius)
+def big_int(*args):
+    return max(sk1, sk2)
+    print(skaicius)
+
+big_int(1, 2)
 
