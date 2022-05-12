@@ -9,7 +9,7 @@ class Sakinys:
         return self._text.lower()
 
     def didelem(self):
-        return self._text.upper()
+        return self.__text.upper()
 
     def pagal_num(self, num):
         return self._text.split()[num - 1]

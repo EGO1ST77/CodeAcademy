@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7968c866-bb80-4a4b-882c-907a6f4dc306" name="Changes" comment="2022.05.10">
-      <change afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/1 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/2 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/3 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/4 uzduotis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/Pamokoje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)/1 uzduotis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)/2 uzduotis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/1 uzduotis.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/1 uzduotis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <recent name="C:\Users\Manager\Documents\GitHub\CodeAcademy\5 paskaita(Darbas su katalogais ir failais)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3 uzduotis">
+  <component name="RunManager" selected="Python.2 uzduotis">
     <configuration name="1 uzduotis (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +70,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)/1 uzduotis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)/2 uzduotis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)/2 uzduotis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,28 +128,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)/3 uzduotis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4 uzduotis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeAcademy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)/4 uzduotis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2 uzduotis" />
+        <item itemvalue="Python.1 uzduotis" />
         <item itemvalue="Python.3 uzduotis" />
         <item itemvalue="Python.1 uzduotis (2)" />
         <item itemvalue="Python.Pamokoje" />
-        <item itemvalue="Python.4 uzduotis" />
-        <item itemvalue="Python.2 uzduotis" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +209,9 @@
       <workItem from="1652110757489" duration="8441000" />
       <workItem from="1652130728339" duration="19000" />
       <workItem from="1652188853845" duration="14057000" />
+      <workItem from="1652286672346" duration="650000" />
+      <workItem from="1652289216837" duration="39000" />
+      <workItem from="1652367641942" duration="13977000" />
     </task>
     <task id="LOCAL−00001" summary="2022.05.08">
       <created>1651993265287</created>
@@ -265,8 +266,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="2022.05.10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis.coverage" NAME="1 uzduotis Coverage Results" MODIFIED="1652081161290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 paskaita" />
     <SUITE FILE_PATH="coverage/CodeAcademy$Pamokoje.coverage" NAME="Pamokoje Coverage Results" MODIFIED="1652198371670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)" />
+    <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis.coverage" NAME="1 uzduotis Coverage Results" MODIFIED="1652376538877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$5_uzduotis.coverage" NAME="5 uzduotis Coverage Results" MODIFIED="1652037764996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$1_uzduotis__1_.coverage" NAME="1 uzduotis (1) Coverage Results" MODIFIED="1652117724028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$5_uzduotis__1_.coverage" NAME="5 uzduotis (1) Coverage Results" MODIFIED="1652007834625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita(Ciklai, Masivai)" />
@@ -277,7 +278,7 @@
     <SUITE FILE_PATH="coverage/CodeAcademy$Namu_darbai_1_2.coverage" NAME="Namu darbai 1_2 Coverage Results" MODIFIED="1652000989655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 paskaita(Kintamieji, salygos)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$3_uzduotis.coverage" NAME="3 uzduotis Coverage Results" MODIFIED="1652208294775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 paskaita(Objektinis programavimas)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$2_uzduotis__1_.coverage" NAME="2 uzduotis (1) Coverage Results" MODIFIED="1651761400601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 paskaita" />
-    <SUITE FILE_PATH="coverage/CodeAcademy$2_uzduotis.coverage" NAME="2 uzduotis Coverage Results" MODIFIED="1652119213852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 paskaita(Darbas su katalogais ir failais)" />
+    <SUITE FILE_PATH="coverage/CodeAcademy$2_uzduotis.coverage" NAME="2 uzduotis Coverage Results" MODIFIED="1652382600398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 paskaita(Bjektinis programavimas 2)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$4_uzduotis__1_.coverage" NAME="4 uzduotis (1) Coverage Results" MODIFIED="1652035854287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 paskaita(Boolean, data, laikas, isimtis)" />
     <SUITE FILE_PATH="coverage/CodeAcademy$test.coverage" NAME="test Coverage Results" MODIFIED="1651768271482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 paskaita" />
   </component>
